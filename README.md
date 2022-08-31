@@ -1,4 +1,4 @@
-# Unit 22 Homework: “Alexa, Can You Handle Big Data?”
+#  “Alexa, Can You Handle Big Data?”
 
 ## Before You Begin
 
@@ -123,6 +123,9 @@ findspark.init()
 Amazon customer Reviews Dataset. (n.d.). Retrieved April 08, 2021, from: [https://s3.amazonaws.com/amazon-reviews-pds/readme.html](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
 
 ---
+
+# sqlpostgress and aws images :
+
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
